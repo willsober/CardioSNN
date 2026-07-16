@@ -1,0 +1,3 @@
+Model,Best Val Acc,Test Acc,Best Epoch,Training Time (min)
+baseline,0.9981,0.9967,62,9.0
+larger_steps,0.9982,0.9970,63,9.9
